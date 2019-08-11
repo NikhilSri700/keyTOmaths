@@ -1,0 +1,170 @@
+1. Commutative Law of Addition of Matrix: Matrix multiplication is commutative. This says that, if A and B are matrices of the same order such that A + B is defined then A + B = B + A.
+
+Proof:  Let A = [aij]m × n and B = [bij]m × n
+
+Let A + B = C = [cij]m × n and B + A = D = [dij]m × n
+
+Then, cij = aij + bij
+
+              = bij + aij , (by using the definition of addition of matrices)
+
+              = dij
+
+Since C and D are of the same order and cij = dij then, C = D.
+
+i.e., A + B = B + A. This completes the proof.
+
+
+
+
+2. Associative Law of Addition of Matrix: Matrix addition is associative. This says that, if A, B and C are Three matrices of the same order such that the matrices B + C, A + (B + C), A + B, (A + B) + C are defined then A + (B + C) = (A + B) + C.
+
+Proof: Let A = [aij]m × n ,B = [bij]m × n and C = [cij]m × n
+
+Let B + C = D = [dij]m × n , A + B = E = [eij]m × n , A + D = P = [pij]m × n , E + C = Q = [qij]m × n
+
+Then, dij = bij + cij , eij = aij + bij , pij = aij + dij and qij = eij + cij
+
+Now, A + (B + C) = A + D = P = [pij]m × n
+
+and (A + B) + C = E + C = Q = [qij]m × n
+
+Therefore, P and Q are the matrices of the same order and
+
+              pij = aij + dij = aij + (bij + cij)
+
+                   = (aij + bij) + cij , (by the definition of addition of matrices)
+
+                    = eij + cij
+
+                    = qij
+
+Since P and Q are of the same order and pij = qij then, P = Q.
+
+i.e., A + (B + C) = (A + B) + C. This completes the proof.
+
+
+3. Existence of Additive Identity of Matrix: Let A be the matrix then, A + O = A = O + A
+
+Therefore, ‘O’ is the null matrix of the same order as the matrix A
+
+Proof: Let A = [aij]m × n and O = [0]m × n
+
+Therefore, A + O = [aij] + [0]
+
+                          = [aij + 0]
+
+                          = [aij]
+
+                           = A
+
+Again, O + A = [0] + [aij]
+
+                     = [0 + aij]
+
+                     = [aij]
+
+                     = A
+
+Note: The null matrix is called the additive identity for the matrices.
+
+
+4. Existence of Additive Inverse of Matrix: Let A be the matrix then, A + (- A) = O = (- A) + A
+
+Proof: Let A = [aij]m × n
+
+Therefore, - A = [- aij]m × n
+
+Now, A + (- A) = [aij] + [- aij]
+
+                       = [aij + (- aij)]
+
+                       = [0]
+
+                        = O
+
+Again (- A) + A = [- aij] + [aij]
+
+                       = [(-aij) + aij]
+
+                       = [0]
+
+                       = O
+
+Therefore, A + (- A) = O = (- A) + A
+
+Note: The matrix – A is called the additive inverse of the matrix A.
+
+If X and Y are two m × n matrices (matrices of the same order) and k, c and 1 are the numbers (scalars). Then the following results are obvious.
+
+I. k(A + B) = kA + kB
+
+II. (k + c)A = kA + cA
+
+III. k(cA) = (kc)A
+
+IV. 1A = A
+
+
+Proof: Let A = [aij] and B = [bij] are two m × n matrices.
+
+
+
+
+I. k(A + B) = k([aij] + [bij])
+
+                 = k[aij + bij], (by using the definition of addition of matrices)
+
+                 = [k(aij + bij)], (by using the definition of scalar multiplication of matrices)
+
+                 = [kaij + kbij]
+
+                 = [kaij] + [kbij]
+
+                 = k[aij] + k[bij]
+
+                 = kA + kB
+
+Therefore, k(A + B) = kA + kB (proved).
+
+
+II. (k + c)A = (k + c) [aij]
+
+                  = [(k + c) (aij)], (by using the definition of scalar multiplication of matrices)
+
+                  = [kaij + caij]
+
+                  = [kaij] + [caij]
+
+                  = k[aij] + c[aij]
+
+                  = kA + cA
+
+Therefore, (k + c)A = kA + cA (proved).
+
+
+III. k(cA) = k(c[aij])
+
+              = k[caij], (by using the definition of scalar multiplication of matrices)
+
+
+              = [k(caij)]
+
+              = [(kc) aij], (by using the definition of scalar multiplication of matrices)
+
+              = (kc) [aij]
+
+              = (kc)A
+
+Therefore, k(cA) = (kc)A (proved).
+
+
+IV. 1A = 1[aij]
+
+          = [1 ∙ aij]
+
+          = [aij]
+
+          = A
+
+Therefore, 1A = A (proved).

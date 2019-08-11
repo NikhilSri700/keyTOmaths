@@ -1,0 +1,143 @@
+1. When a, b are real numbers and a + ib = 0 then a = 0, b = 0
+
+Proof:
+
+According to the property,
+
+ a + ib = 0 = 0 + i ∙ 0,
+
+Therefore, from the definition of equality of two complex numbers we conclude that, x = 0 and y = 0.
+
+ 
+
+2. When a, b, c and d are real numbers and a + ib = c + id then a = c and b = d.
+
+Proof:
+
+According to the property,
+
+a + ib = c + id and a, b, c and d are real numbers.
+
+
+
+
+Therefore, from the definition of equality of two complex numbers we conclude that, a = c and b = d.
+
+
+3. For any three the set complex numbers z1
+, z2 and z3
+
+satisfies the commutative, associative and distributive laws.
+
+(i) z1
++ z2 = z2 + z1
+
+(Commutative law for addition).
+
+(ii) z1
+∙ z2 = z2 ∙ z1
+
+(Commutative law for multiplication).
+
+(iii) (z1
++ z2) + z3 = z1 + (z2 + z3
+
+) (Associative law for addition)
+
+(iv) (z1
+z2)z3 = z1(z2z3
+
+) (Associative law for multiplication)
+
+(v) z1
+(z1 + z3) = z1z2 + z1z3
+
+(Distributive law).
+
+ 
+
+4. The sum of two conjugate complex numbers is real.
+
+Proof:
+
+Let, z = a + ib (a, b are real numbers) be a complex number. Then, conjugate of z is z¯¯¯
+
+= a - ib.
+
+Now, z + z¯¯¯
+
+= a + ib + a - ib = 2a, which is real.
+
+
+5. The product of two conjugate complex numbers is real.
+
+Proof:
+
+Let, z = a + ib (a, b are real number) be a complex number. Then, conjugate of z is z¯¯¯
+
+= a - ib.
+
+z  ∙ z¯¯¯
+= (a + ib)(a - ib) = a2 - i2b2 = a2 + b2, (Since i2
+
+= -1), which is real.
+
+
+Note: When z = a + ib then |z| = a2+b2−−−−−−√
+and, zz¯¯¯ = a2 + b2
+
+Hence, zz¯¯¯−−√
+= a2+b2−−−−−−√
+
+Therefore, |z| = zz¯¯¯−−√
+
+Thus, modulus of any complex number is equal to the positive square root of the product of the complex number and its conjugate complex number.
+
+ 
+
+6. When the sum of two complex numbers is real and the product of two complex numbers is also real then the complex numbers are conjugate to each other.
+
+Proof:
+
+Let, z1
+= a + ib and z2
+
+= c + id be two complex quantities (a, b, c, d and real and b ≠ 0, d ≠0).
+
+According to the property,
+
+z1
++ z2
+
+= a+ ib + c + id = (a + c) + i(b + d) is real.
+
+Therefore, b + d = 0
+
+⇒ d = -b
+
+And,
+
+z1
+z2
+
+= (a + ib)(c + id) = (a + ib)(c +id) = (ac – bd) + i(ad + bc) is real.
+
+Therefore, ad + bc = 0
+
+⇒ -ab + bc = 0, (Since, d = -b)
+
+⇒ b(c - a) = 0
+
+⇒ c = a (Since, b ≠ 0)
+
+Hence, z2
+= c + id = a + i(-b) = a - ib = z1¯¯¯¯¯
+
+Therefore, we conclude that z1
+and z2
+
+are conjugate to each other.
+
+
+7. |z1
++ z2| ≤ |z1| + |z2|, for two complex numbers z1 and z2.

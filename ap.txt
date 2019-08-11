@@ -1,0 +1,59 @@
+1. Let ‘a’ be the first term and ‘d’ the common difference of an Arithmetic Progression. Then its
+
+(i) General term (nth term) = tn
+
+= a + (n - 1)d
+
+(ii) The sum of the first n terms = Sn
+= n2(a + l) = Numberofterms2
+
+(First term + Last term)
+
+or, Sn
+= n2
+
+[2a + (n - 1)d] where l = last term = nth term = a + (n - 1)d.
+
+
+2. (i) The sum of first n natural numbers (Sn
+)= n2
+
+(n + 1)
+
+i.e., 1 + 2 + 3 + 4 + 5 + .................... + n = n2
+
+(n + 1)
+
+
+
+
+(ii) The sum of the squares of first n natural numbers (Sn
+)= 16
+
+n(n + 1)(2n + 1)
+
+i.e., 12
++ 22 + 32 + 42 + 52 + ................... + n2  = 16
+
+n(n + 1)(2n + 1)
+
+(iii) The sum of the cubes of first n natural numbers (Sn
+) = {12n(n +1)}2
+
+i.e., 13
++ 23 + 33 + 43 + 53 + ........... + n3 = {12n(n +1)}2
+
+
+3. The arithmetic mean between two given quantities a and b = ½ × (Sum of the given quantities) = a+b2
+
+.
+
+4. (i) If the sum of three terms in Arithmetic Progression be given, assume the numbers as a - d, a and a + d. Here common difference is d.
+
+(ii) If the sum of four terms in Arithmetic Progression be given, assume the numbers as a - 3d, a - d, a + d and a + 3d.
+
+(iii) If the sum of five terms in Arithmetic Progression be given, assume the numbers as a - 2d, a - d, a, a + d and a + 2d. Here common difference is 2d.
+
+(iv) If the sum of six terms in Arithmetic Progression be given, assume the numbers as a - 5d, a - 3d, a - d, a + d, a + 3d and a + 5d. Here common difference is 2d.
+
+

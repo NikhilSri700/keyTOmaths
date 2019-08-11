@@ -1,0 +1,88 @@
+1. Commutative Laws:
+
+For any two finite sets A and B;
+
+(i) A U B = B U A
+
+(ii) A ∩ B = B ∩ A
+
+
+2. Associative Laws:
+
+For any three finite sets A, B and C;
+
+(i) (A U B) U C = A U (B U C)
+
+(ii) (A ∩ B) ∩ C = A ∩ (B ∩ C)
+
+Thus, union and intersection are associative.
+
+
+
+
+3. Idempotent Laws:
+
+For any finite set A;
+
+(i) A U A = A
+
+(ii) A ∩ A = A
+
+
+4. Distributive Laws:
+
+For any three finite sets A, B and C;
+
+(i) A U (B ∩ C) = (A U B) ∩ (A U C)
+
+(ii) A ∩ (B U C) = (A ∩ B) U (A ∩ C)
+
+Thus, union and intersection are distributive over intersection and union respectively.
+
+
+5. De Morgan’s Laws:
+
+ For any two finite sets A and B;
+
+(i) A – (B U C) = (A – B) ∩ (A – C)
+
+(ii) A - (B ∩ C) = (A – B) U (A – C)
+
+De Morgan’s Laws can also we written as:
+
+(i) (A U B)’ = A' ∩ B'
+
+(ii) (A ∩ B)’ = A' U B'
+
+
+More laws of algebra of sets:
+
+6. For any two finite sets A and B;
+
+(i) A – B = A ∩ B'
+
+(ii) B – A = B ∩ A'
+
+(iii) A – B = A ⇔ A ∩ B = ∅
+
+(iv) (A – B) U B = A U B
+
+(v) (A – B) ∩ B = ∅
+
+(vi) A ⊆ B ⇔ B' ⊆ A'
+
+(vii) (A – B) U (B – A) = (A U B) – (A ∩ B)
+
+
+7. For any three finite sets A, B and C;
+
+(i) A – (B ∩ C) = (A – B) U (A – C)
+
+(ii) A – (B U C) = (A – B) ∩ (A – C)
+
+(iii) A ∩ (B - C) = (A ∩ B) - (A ∩ C)
+
+(iv) A ∩ (B △ C) = (A ∩ B) △ (A ∩ C)
+
+
+

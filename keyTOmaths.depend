@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1555410295 source:/media/nikhil/Nikhil/SDF/C/conversions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1555410295 source:/media/nikhil/Nikhil/SDF/C/Matrices.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1555410340 source:/media/nikhil/Nikhil/SDF/C/keyTOmaths/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555410295 source:/media/nikhil/Nikhil/SDF/C/projectap.c
+	<stdio.h>
+	<stdlib.h>
+
+1555410295 source:/media/nikhil/Nikhil/SDF/C/projectcom.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1555410295 source:/media/nikhil/Nikhil/SDF/C/projectgp.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1555410295 source:/media/nikhil/Nikhil/SDF/C/projectvec.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1555410586 source:/media/nikhil/Nikhil/SDF/C/sets.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1555410295 source:/media/nikhil/Nikhil/SDF/C/polynomials.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1555410340 source:/media/nikhil/Nikhil/keyTOmaths/main.c
+	<stdio.h>
+	<stdlib.h>
+
