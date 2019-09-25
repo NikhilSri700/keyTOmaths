@@ -1,3 +1,4 @@
+This file is edited in VScode and then again pushed back to github.
 The theory of quadratic equation formulae will help us to solve different types of problems on quadratic equation.
 
 The general form of a quadratic equation is ax2
